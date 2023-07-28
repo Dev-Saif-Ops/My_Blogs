@@ -107,6 +107,6 @@ In conclusion, Serverless Computing is not a fairy tale; it's a powerful tool to
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690470251881/b3d1df64-fba6-41f9-bb63-31139b04eba4.png align="center")
 
-> Note: Stay Tuned For an Amazing Overeall On Project On Serverless...
+> Note: Stay Tuned For an Amazing Overall Project On Serverless...
 
 #ServerlessMagic #EmpowerInnovation #UnleashYourPotential #EnchantedCloud #CreateTheFuture #TWS #msatechnohub
