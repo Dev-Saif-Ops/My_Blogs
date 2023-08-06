@@ -337,8 +337,7 @@ With Taskmaster App deployed to the AWS cloud, it's time to explore your enchant
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690959387705/93c58d23-2aa0-4638-92f4-588904497796.png align="center")
     
-
-1. Click ON Edit Template in Designer and then Veiw in Designer.
+2. Click ON Edit Template in Designer and then Veiw in Designer.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690959653054/0e7c3b1e-413c-422c-be90-88be66654eb6.png align="center")
     
